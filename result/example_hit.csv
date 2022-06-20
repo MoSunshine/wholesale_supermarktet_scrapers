@@ -1,0 +1,94 @@
+name,street,zip_code,city,lat,lon
+Rheda-Wiedenbrück,Feldhüserweg 1,33378,Rheda-Wiedenbrück,51.8414957,8.2948469
+Bad Salzuflen,Schloßstraße 36a,32108,Bad Salzuflen-Schötmar,52.0742345,8.7587421
+Brilon,Hasselborn 44,59929,Brilon,51.4028387,8.5720399
+Olsberg,Fruges Straße 1,59939,Olsberg,51.3570121,8.4799933
+Soest,Am Bahnhof 2,59494,Soest,51.5786442,8.1022193
+Meschede,Jahnstraße 58,59872,Meschede,51.3563033,8.2854313
+Warendorf,Splieterstraße 23,48231,Warendorf,51.9474896,8.0008874
+Hann.Münden,Auefeld 9,34346,Hann. Münden,51.4317186,9.644921
+Schmallenberg,Poststraße 6,57392,Schmallenberg,51.1529063,8.2828434
+Bad Berleburg,Bahnhofstraße 8,57319,Bad Berleburg,51.053817,8.394271
+Münster,Geringhoffstraße 44,48163,Münster,51.9306373,7.5990252
+Plettenberg,Waskebieke 4,58840,Plettenberg,51.2156672,7.8700464
+Lennestadt,Gartenstraße 8,57368,Lennestadt,51.1063833,8.0722913
+Hildesheim,Rex-Brauns-Straße 5-7,31139,Hildesheim,52.1263522,9.9412508
+Lüdenscheid,Glatzer Straße 1,58511,Lüdenscheid,51.2286128,7.6521127
+Meinerzhagen,Volmestraße 58,58540,Meinerzhagen,51.1106471,7.6396896
+Wenden,Peter-Dassis-Ring 2,57482,Wenden,50.971647,7.870772
+Freudenberg,Krottorfer Straße 2,57258,Freudenberg,50.897678849,7.8762125
+Marienheide,Bahnhofstraße 21,51709,Marienheide,51.0806521,7.5312562
+Gummersbach,Kölner Straße 223,51645,Gummersbach,51.0033208,7.5875524
+Engelskirchen,Im Grengel,51766,Engelskirchen,50.9880084,7.4120125
+Hachenburg,Adolf Münch Weg 1,57627,Hachenburg,50.6643566,7.815254
+Overath,Propsteistraße 20,51491,Overath,50.9298476,7.2811769
+Overath-Untereschbach,Olper Straße 20,51491,Overath-Untereschbach,50.9480179,7.2151783
+Leverkusen-Schlebusch,Gezelinallee 17-19,51375,Leverkusen-Schlebusch,51.03591,7.0504155
+Hennef,Adenauerplatz 2,53773,Hennef,50.774202,7.2856934
+Siegburg,Industriestraße 29,53721,Siegburg,50.7987492,7.1972478
+Köln Porz,Marienburger Straße 1,51145,Köln Porz-Urbach,50.8814335,7.0776836
+Dormagen,Lübecker Straße 1,41540,Dormagen,51.0949219,6.8117521
+Sankt Augustin,Alte Heerstraße 53,53757,Sankt Augustin,50.7673122,7.1934165
+Troisdorf-Sieglar,Spicher Straße 101,53844,Troisdorf-Sieglar,50.8106068,7.1237743
+Köln-Reiterstaffel,Reiterstaffelplatz 1,50968,Köln,50.8984081,6.9656014
+Köln-Braunsfeld,Scheidtweilerstraße 83-87,50933,Köln-Braunsfeld,50.9380838,6.9013919
+Niederkassel-Rheidt,Marktstraße 109,53859,Niederkassel-Rheidt,50.7982928,7.0523798
+Bonn-Bad Godesberg,Drachenburgstraße 14,53179,Bonn,50.6680911,7.1787685
+Bad Honnef,Berck-Sur-Mer-Straße 1,53604,Bad Honnef,50.6317728,7.2259567
+Büdingen,An der Saline 18,63654,Büdingen,50.2821134,9.108902
+Frechen,Dürener Straße 52,50226,Frechen,50.9061393,6.8008485
+Brühl,Lessingstraße 1-3,50321,Brühl,50.8217249,6.8941104
+Bad Homburg,Frankfurter Landstraße 1,61352,Bad Homburg,50.2213565,8.6300827
+Bergheim,Kölner Straße 16,50126,Bergheim,50.95232,6.64431
+Kerpen-Sindorf,Kerpener Straße 157/163,50170,Kerpen-Sindorf,50.899618,6.6819059
+Meckenheim,Neuer Markt 1,53340,Meckenheim,50.6252192,7.038205
+Idstein,Wiesbadener Straße 58,65510,Idstein,50.2170525,8.2624658
+Mönchengladbach,Rudolfstraße 43,41068,Mönchengladbach,51.1918088,6.4149716
+Mönchengladbach-Rheydt,Dahlener Straße 171,41239,Mönchengladbach-Rheydt,51.1656256,6.430786
+Koblenz,Schlachthofstraße 66,56073,Koblenz,50.363486,7.5754756
+Andernach,Erfurter Straße 4-6,56626,Andernach,50.4232837,7.4004939
+Bad Neuenahr-Ahrweiler,Wilhelmstraße 50-52,53474,Bad Neuenahr-Ahrweiler,50.5459312,7.1101093
+Rheinbach,Meckenheimer Straße 8,53359,Rheinbach,50.6248922,6.9603257
+Euskirchen,Roitzheimer Straße 117,53879,Euskirchen,50.6523965,6.8017599
+Schwalmtal-Amern,Siemensstraße 1,41366,Schwalmtal-Amern,51.2389734,6.2508529
+Frankfurt-Sachsenhausen,Mörfelder Landstr. 129,60598,Frankfurt-Sachsenhausen,50.0951412,8.6824761
+Euskirchen,Georgstraße 22,53879,Euskirchen,50.6539852,6.7704844
+Offenbach,Sprendlinger Landstraße 140,63069,Offenbach,50.0879163,8.7505113
+Obertshausen,Königsberger Straße 2,63179,Obertshausen,50.0750258,8.8563541
+Mayen,Hausener Straße 2-6,56727,Mayen,50.3266864,7.2432888
+Wiesbaden,Hasengartenstraße 25,65189,Wiesbaden,50.0594923,8.2582666
+Hochheim,Nordenstädter Str. 33,65239,Hochheim,50.0195771,8.3521652
+Langen,Liebigstrasse 9,63225,Langen,49.99428,8.65823
+Mainz-Kostheim,Hochheimer Straße 35,55246,Mainz-Kostheim,50.0084259,8.2932973
+Eschweiler,Dürener Straße 200,52249,Eschweiler,50.8185707,6.283789
+Aachen-Tivoli,Krefelder Straße 199,52070,Aachen,50.7902853,6.0959446
+Aachen,Schurzelter Straße 565-569,52074,Aachen,50.7707949,6.039568
+Daun,Mehrener Straße 23,54550,Daun,50.1939005,6.8374512
+Gerolstein,Sarresdorfer Straße 87,54568,Gerolstein,50.2236222,6.6438104
+Prüm,Kalvarienbergstraße 37-41,54595,Prüm,50.2073586,6.4155709
+Kirchheimbolanden,Hitzfeldstraße 1,67292,Kirchheimbolanden,49.6661504,8.0160887
+Eisenberg,Konrad-Adenauer-Straße 1,67304,Eisenberg,49.5625251,8.0833418
+Bad Dürkheim,Bruchstraße 7,67098,Bad Dürkheim,49.4696539,8.2002605
+Leipzig,Straße des 18. Oktober 44 (Auf der alten Messe),04103,Leipzig,51.3188295,12.3993687
+Schwerin-Görries,Am Fasanenhof 7,19061,Schwerin-Görries,53.6082635,11.3678828
+Karlsruhe,Eichelbergstraße 34,76189,Karlsruhe,48.998654,8.3472372
+Bietigheim-Bissingen,Mühlwiesenstraße 27,74321,Bietigheim-Bissingen,48.960464,9.1300284
+Mühlacker-Enzberg,Kanalstraße 46,75417,Mühlacker-Enzberg,48.9369641,8.8061964
+Berlin-Charlottenburg,Wilmersdorfer Str. 26 - 28,10585,Berlin,52.51397,13.30458
+Berlin Getränke Shop,Wilmersdorfer Str. 25,10585,Berlin,52.51418,13.30465
+Berlin-Steglitz,Schlossstraße 110,12163,Berlin ,52.4610106,13.3252489
+Berlin Zoo,Kantstraße 7,10623,Berlin,52.505558,13.3304166
+Berlin-Mariendorf,Mariendorfer Damm 292-298,12107,Berlin,52.4267883,13.3933796
+Berlin-Mitte,Mohrenstraße 69,10117,Berlin,52.5118375,13.3838511
+Stuttgart ,Karlstraße 4,70173,Stuttgart,48.7754944,9.1786719
+Aichach,Franz-Beck-Straße 3,86551,Aichach,48.45707,11.12452
+Oberschleißheim,Mittenheimer Straße 52,85764,Oberschleißheim,48.2591011,11.5580334
+München-Moosach,Am Neubruch 7,80997,München-Moosach,48.1922286,11.4997553
+Erding,Rudolf-Diesel-Straße 4,85435,Erding,48.31113,11.89643
+München-Pasing,Pasinger Bahnhofsplatz 5,81241,München-Pasing,48.1489519,11.461785
+München-Laim,Elsenheimerstraße 57,80687,München-Laim,48.1367897,11.5235067
+München-Haidhausen,Rosenheimer Straße 30/32,81669,München-Haidhausen,48.1297636,11.5913038
+München Giesing,Giesinger Bahnhofplatz 1a,81539,München-Giesing,48.1098459,11.5962976
+München-Trudering,Truderinger Straße 272,81825,München-Trudering,48.1244839,11.6649453
+München-Fasangarten,Auguste-Kent-Platz 2,81549,München-Fasangarten,48.0930727,11.6046811
+Parsdorf,Am Lerchenfeld 3,85599,Parsdorf,48.1460317,11.7880918
